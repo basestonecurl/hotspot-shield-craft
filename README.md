@@ -28,4 +28,4 @@ Documentation: https://hotspot-shield-craft.softonx.xyz
 ## Features
 1. **Kill Switch:** Automatic connection termination if the secure tunnel drops unexpectedly.
 2. **Split Tunneling:** Route specific apps through the VPN while others connect directly.
-3. **Server Network:** Global server infrastructure with optimized nodes for speed and reliability.               
+3. **Server Network:** Global server infrastructure with optimized nodes for speed and reliability.                
